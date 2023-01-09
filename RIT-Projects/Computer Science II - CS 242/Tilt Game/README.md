@@ -13,4 +13,4 @@ Moving them just half way is not allowed. The goal is to get all the green slide
 all the blue ones remain on the board
 
 
-![Screenshot](TiltScreenshot.png)
+![Screenshot](Screenshots/TiltScreenshot.png)

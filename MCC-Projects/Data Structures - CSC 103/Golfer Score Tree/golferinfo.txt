@@ -1,0 +1,12 @@
+Stevens 7 78.45
+Smith 2 81.5
+Jones 8 76.9
+Addison 6 89.55
+Flintstone 5 89.85
+Franks 8 79.35
+Norman 13 72.21538461538462
+Nickels 1 84.0
+Meow 7 14342.757142857143
+Rubble 5 91.25
+Walker 5 84.88
+Woods 10 80.75

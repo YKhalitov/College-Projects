@@ -14,8 +14,8 @@ all the blue ones remain on the board
 
 
 <p>
-    <img src="/Screenshots/TiltScreenshot.png" width="220" height="240" />
+    <img src="RIT-Projects/Computer Science II - CS 242/Tilt Game/Screenshots/TiltScreenshot.PNG" width="220" height="240" />
 </p>
 
 
-![ScreenShot](/Screenshots/TiltScreenshot.png)
+![ScreenShot](/RIT-Projects/Computer Science II - CS 242/Tilt Game/Screenshots/TiltScreenshot.PNG)

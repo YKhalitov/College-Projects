@@ -1,4 +1,4 @@
-# Movies Information
+# Movies Data Search
 Scans an entire full of incormation of movies from IMDB website, parses it into dictionaryand allows user to perform six search queries.
 
 1.) Lookup a movie by its identifier

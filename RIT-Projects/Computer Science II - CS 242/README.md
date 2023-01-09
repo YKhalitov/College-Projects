@@ -18,6 +18,8 @@ A PTUI and GUI implementation for the sliding logic maze puzzle Tilt.
 
 The game allows you to load puzzles, receive hints (from BFS and DFS search algorithms), reset, and of course play.
 
+![MoviesScreenshot](https://user-images.githubusercontent.com/94023846/211426977-fc53cd22-2307-4ab0-9aab-82ef7f072a7a.PNG)
+
 
 Rules:
 

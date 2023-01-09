@@ -13,13 +13,12 @@ Scans an entire full of incormation of movies from IMDB website, parses it into 
 
 6.) Find given number of movies of a certain type within a year range that are the highest rated with at least 1000 votes.
 
+![MoviesScreenshot](https://user-images.githubusercontent.com/94023846/211426977-fc53cd22-2307-4ab0-9aab-82ef7f072a7a.PNG)
+
 # Tilt Game
 A PTUI and GUI implementation for the sliding logic maze puzzle Tilt.
 
 The game allows you to load puzzles, receive hints (from BFS and DFS search algorithms), reset, and of course play.
-
-![MoviesScreenshot](https://user-images.githubusercontent.com/94023846/211426977-fc53cd22-2307-4ab0-9aab-82ef7f072a7a.PNG)
-
 
 Rules:
 

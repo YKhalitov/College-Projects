@@ -13,9 +13,6 @@ Moving them just half way is not allowed. The goal is to get all the green slide
 all the blue ones remain on the board
 
 
-<p>
-    <img src="RIT-Projects/Computer Science II - CS 242/Tilt Game/Screenshots/TiltScreenshot.PNG" width="220" height="240" />
-</p>
+![TiltScreenshot](https://user-images.githubusercontent.com/94023846/211426580-31bf2214-45cf-4d75-9091-7bba207606c4.PNG)
 
 
-![ScreenShot](/RIT-Projects/Computer Science II - CS 242/Tilt Game/Screenshots/TiltScreenshot.PNG)

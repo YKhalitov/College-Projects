@@ -1,5 +1,6 @@
 # Movie Data Search
 Scans an entire full of incormation of movies from IMDB website, parses it into dictionaryand allows user to perform six search queries.
+Data for movies is over 750MB so I unfortunately cannot include it here.
 
 1.) Lookup a movie by its identifier
 

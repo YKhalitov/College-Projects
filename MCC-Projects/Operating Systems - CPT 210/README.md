@@ -15,3 +15,11 @@ Correct Password = "Alex"
 
 
 Need to use read & write file first to write the correct password to RFID card.
+
+
+<img src="https://user-images.githubusercontent.com/94023846/211431523-ca3f00cb-f9e3-4f9c-ac97-e29c6953dcf6.jpg" width="250" height="320">
+
+https://user-images.githubusercontent.com/94023846/211431456-af8c23d2-236d-4431-9a76-13c9a0ec6159.mov
+
+
+

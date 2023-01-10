@@ -9,8 +9,5 @@ are all simulated.
 
 Setup steps & more are described in the usermanual included.
 
-![IMG_3024](https://user-images.githubusercontent.com/94023846/211432658-8d0476eb-7f73-484e-90e9-5ef121eb8900.jpeg)
-
-![D-Board-Complete](https://user-images.githubusercontent.com/94023846/211432744-c25bbe55-e9a7-49dc-80e3-9851f318d0b0.jpg)
-
-
+<img src="https://user-images.githubusercontent.com/94023846/211432658-8d0476eb-7f73-484e-90e9-5ef121eb8900.jpeg" width="250" height="320">
+<img src="https://user-images.githubusercontent.com/94023846/211433298-c59a3f46-1065-4b2e-9d18-3724a018c52c.jpg" width="250" height="380">
